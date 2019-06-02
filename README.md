@@ -1,4 +1,4 @@
-# DataMining
-DataMining Assignment -Python &amp; SAS
+# DataMining WQD180045
+DataMining Assignment -Python &SAS
 
-Click Code folder
+Click ViewCode folder to view the Milestone 1-6 Finalise codes and modelling with the report.
